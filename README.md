@@ -1,5 +1,7 @@
 # Finding-aid Cleaner skill
 
+![Untidy plain-text finding aid carefully reformatted into a readable page](assets/finding-aid-cleaner.png)
+
 A small agent skill for cleaning common formatting problems in plain-text archival finding aids.
 
 It can:
